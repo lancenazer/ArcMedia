@@ -661,6 +661,111 @@ Use these formulas for EVERY video:
 
 ---
 
+## ADDITIONAL ANCHOR WATCH VIDEOS (From Agent Research)
+
+### VIDEO 11: "USS Gerald R. Ford vs China's Type 001 – Who Really Rules the Ocean?"
+- **Exact Title:** "USS Gerald R. Ford vs China's Type 001 – Who Really Rules the Ocean?"
+- **Thumbnail:** Split-screen Ford left, Type 001 right, "POWER SHOWDOWN"
+- **Length:** 15 minutes
+- **Hook:**
+  > "Two of the world's most powerful carriers – one American, one Chinese – will face off in a virtual head-to-head. Let's see which truly dominates the seas."
+
+- **Script Outline:**
+  1. Overview of each carrier (displacement, crew)
+  2. Flight deck & aircraft capacity
+  3. Power plant & speed
+  4. Radar & missile systems
+  5. Operational doctrine
+  6. Side-by-side performance matrix
+  7. Verdict + Future upgrades
+
+---
+
+### VIDEO 12: "Railguns vs Traditional Naval Guns – The Next Big Leap?"
+- **Exact Title:** "Railguns vs Traditional Naval Guns – The Next Big Leap?"
+- **Thumbnail:** Railgun bolt in electric blue vs traditional barrel, "Future vs Today"
+- **Length:** 13 minutes
+- **Hook:**
+  > "Imagine a gun that launches a projectile at Mach 7 without explosives. Can railguns replace the 5-inch naval gun? Let's find out."
+
+- **Script Outline:**
+  1. What is a railgun?
+  2. Physics & energy requirements
+  3. Current prototypes (US, Japan)
+  4. Comparison: range, rate-of-fire, cost
+  5. Integration challenges
+  6. Outlook – timeline to deployment
+
+---
+
+### VIDEO 13: "Virginia-Class vs Yasen-Class – Underwater Stealth Showdown"
+- **Exact Title:** "Virginia-Class vs Yasen-Class – Underwater Stealth Showdown"
+- **Thumbnail:** Silhouettes underwater, sonar waves, "STEALTH BATTLE"
+- **Length:** 16 minutes
+- **Hook:**
+  > "The oceans hide the most lethal weapons on Earth – the US Virginia and Russia's Yasen. Which can truly stay unseen?"
+
+- **Script Outline:**
+  1. Sub design basics
+  2. Acoustic signature analysis
+  3. Weapon loadout
+  4. Propulsion & speed
+  5. Real-world missions (reported)
+  6. Comparative matrix
+  7. Verdict
+
+---
+
+### VIDEO 14: "From Steel to Supercarrier – How an Aircraft Carrier is Built"
+- **Exact Title:** "From Steel to Supercarrier – How an Aircraft Carrier is Built"
+- **Thumbnail:** Shipyard crane lifting hull, blueprint overlay, "BUILDING A GIANT"
+- **Length:** 22 minutes
+- **Hook:**
+  > "A carrier is more than a floating airport – it's a massive engineering marvel. Follow the journey from raw steel to a war-ready behemoth."
+
+- **Script Outline:**
+  1. Planning & contracts
+  2. Hull construction (modules)
+  3. Flight deck assembly
+  4. Power plant installation
+  5. Systems integration (radar, catapults)
+  6. Sea trials
+  7. Commissioning ceremony
+
+---
+
+### VIDEO 15: "Midway Explained – The Battle That Changed the Pacific"
+- **Exact Title:** "Midway Explained – The Battle That Changed the Pacific"
+- **Thumbnail:** 1942 map with carrier icons, explosion effect, "MIDWAY 1942"
+- **Length:** 16 minutes
+- **Hook:**
+  > "June 1942 – a tiny atoll became the decisive stage for the biggest naval battle ever. Let's relive Midway, step by step."
+
+- **Script Outline:**
+  1. Prelude (Pearl Harbor)
+  2. Forces & order of battle
+  3. Intelligence breakthrough (code-breaking)
+  4. Day-by-day combat (animations)
+  5. Aftermath & strategic impact
+
+---
+
+### VIDEO 16: "The Rise of Unmanned Surface Vessels – Navy's Next Frontier"
+- **Exact Title:** "The Rise of Unmanned Surface Vessels – Navy's Next Frontier"
+- **Thumbnail:** Drone-boat silhouette, glowing tech lines, "AUTONOMOUS WARFARE"
+- **Length:** 13 minutes
+- **Hook:**
+  > "What if a warship could patrol the seas without a crew? Meet the unmanned surface vessels that are already testing the waters."
+
+- **Script Outline:**
+  1. Definition & current prototypes (US, Norway)
+  2. Mission profiles (surveillance, mine-hunting, strike)
+  3. Control systems & AI
+  4. Legal & ethical considerations
+  5. Projected impact on fleet composition
+
+---
+
 # EXECUTION RULES
 
 1. **Post EVERY scheduled video** — No exceptions
