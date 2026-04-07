@@ -1,5 +1,5 @@
 # SCRIPT - Anchor Watch Video 2
-# "US Navy's NEW $15 BILLION Warship is a GAME CHANGER"
+# "US Navy's NEW $13 BILLION Warship is a GAME CHANGER"
 
 ## VIDEO METADATA
 - **Length:** 13 minutes
@@ -79,7 +79,7 @@ How does it compare to the Nimitz class it's replacing? Faster. Quieter. More au
 # SCRIPT COMPLETE ✅
 
 ## Checklist Verification:
-- ✅ First line validates thumbnail ($15 BILLION, GAME CHANGER)
+- ✅ First line validates thumbnail ($13 BILLION, GAME CHANGER)
 - ✅ No jargon
 - ✅ Clear stakes (most advanced warship)
 - ✅ Credibility (specific specs)

@@ -13,7 +13,7 @@
 ### USS Gerald R. Ford (CVN-78)
 - **Class:** Ford-class nuclear supercarrier
 - **Commissioned:** 2017 (still in testing/deployment phases)
-- **Cost:** $13.3 billion + R&D = $15+ billion total
+- **Cost:** $13.3 billion (actual build cost)
 - **Displacement:** 100,000 long tons (full load)
 - **Length:** 333 meters (1,092 feet)
 - **Crew:** 4,539 personnel
@@ -81,7 +81,7 @@
 
 | Stat | Value |
 |------|-------|
-| Cost | $15+ billion |
+| Cost | $13.3 billion |
 | Length | 333 meters |
 | Displacement | 100,000 tons |
 | Crew | 4,500+ |

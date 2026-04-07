@@ -1,15 +1,15 @@
 # THUMBNAIL BRIEF - Visionary Builds Video 2
 
 ## Video Info
-- **Title:** China's Skyscraper Race: They Built This City in JUST 2 Years!
+- **Title:** China's Infrastructure Machine: How They Built A City From Nothing
 - **Length:** 12 minutes
 - **Channel:** Visionary Builds
 
 ## Thumbnail Specs
 - **Main Visual:** Massive Chinese city skyline with construction cranes everywhere
-- **Text (red, bold):** "2 YEARS" 
-- **Extra Element:** Calendar being crossed out + surprised/amazed expression
-- **Color Palette:** Red/white contrast, urgent, attention-grabbing
+- **Text (red, bold):** "RECORD SPEED" 
+- **Extra Element:** China flag + construction time-lapse + amazed expression
+- **Color Palette:** Red/white/blue, urgent, attention-grabbing
 - **Style:** Fast-paced, news-breaking, competitive
 
 ## Requirements
@@ -19,4 +19,4 @@
 - Avoid: calm, peaceful imagery
 
 ## Designer Notes
-The "2 YEARS" is the hook - make it BIG and RED. The calendar cross-out shows speed. Add a sense of "can't believe this happened"
+The speed/record aspect is the hook - make it look impossible. The "RECORD SPEED" is the focus - show the incredible pace of Chinese development.

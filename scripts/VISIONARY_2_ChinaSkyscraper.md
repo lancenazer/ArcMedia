@@ -1,5 +1,5 @@
 # SCRIPT - Visionary Builds Video 2
-# "China's Skyscraper Race: They Built This City in JUST 2 Years!"
+# "China's Infrastructure Machine: How They Built A City From Nothing"
 
 ## VIDEO METADATA
 - **Length:** 12 minutes
@@ -11,9 +11,9 @@
 ## HOOK (30 seconds)
 **[Visual: Speed time-lapse of Chinese construction]**
 
-"In the time it takes to build a single skyscraper in America, China just built an entire city. I'm not joking.
+"While America takes years to approve a single building permit, China just built an entire city from empty desert. I'm not joking.
 
-**[Cut to:]** This construction project will blow your mind. In two years — TWO — they went from empty desert to a fully functioning metropolis. Let me show you what's happening in China right now."
+**[Cut to:]** In just a few years, they went from rice paddies to a functioning megacity. Let me show you what's happening in China right now."
 
 ---
 
@@ -26,7 +26,7 @@ This is Xiong'an New Area. Located about 100 kilometers southwest of Beijing.
 
 **[Map graphic showing location]**
 
-Two years later? Office towers, high-speed rail, smart infrastructure — already partially operational.
+By 2023? Office towers, high-speed rail, smart infrastructure — already partially operational. The speed is unlike anything we've seen.
 
 ---
 

@@ -20,7 +20,7 @@
 ---
 
 ## VIDEO 2: China's Skyscraper Race
-- **EXACT TITLE:** "China's Skyscraper Race: They Built This City in JUST 2 Years!"
+- **EXACT TITLE:** "China's Infrastructure Machine: They Built This CITY In Record Time"
 - **LENGTH:** 12 minutes
 - **SCRIPT SUMMARY:** China has been building faster than anyone. In the time it takes to build ONE skyscraper in America, China built an ENTIRE city. This video showcases the speed, technology, and what it means for the global construction race.
 - **HOOK (first 30 seconds):**
@@ -64,7 +64,7 @@
 ---
 
 ## VIDEO 2: US Navy's NEW $15 Billion Warship
-- **EXACT TITLE:** "US Navy's NEW $15 BILLION Warship is a GAME CHANGER"
+- **EXACT TITLE:** "US Navy's NEW $13 BILLION Warship is a GAME CHANGER"
 - **LENGTH:** 13 minutes
 - **SCRIPT SUMMARY:** The US Navy commissioned its most advanced warship ever - costs $15 billion and could take on an entire fleet. This video breaks down why it's a game changer for naval warfare.
 - **HOOK (first 30 seconds):**
