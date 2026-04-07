@@ -766,6 +766,75 @@ Use these formulas for EVERY video:
 
 ---
 
+# 📝 SCRIPT TEMPLATE (Copy & Paste for Each Video)
+
+## HOOK (WRITE FIRST - 30 seconds)
+> [Problem/Promise lead-in] 
+> [Credibility establishment]
+> [Curiosity gap]
+> 
+> EX: "This is the [X] mistake that's killing your [metric]. After analyzing [number] of videos, I've found [specific fix]. In this video, I'll show you [specific transformation]. But here's the catch: [stakes]."
+
+---
+
+## PROBLEM (1-2 minutes)
+- What's wrong / What the viewer is dealing with
+- Why it matters to them
+- Common misconceptions
+
+---
+
+## SOLUTION (3-5 minutes)
+- The main insight
+- Why it works
+- Specific examples
+
+---
+
+## BUILD (Lead to CTA - 1-2 minutes)
+- How to apply this
+- What happens if they don't
+- Tease what's coming next
+
+---
+
+## OUTRO + CTA (30 seconds)
+- One specific CTA
+- Promise for next video
+- Curiosity gap
+
+---
+
+# ⚠️ MANDATORY: ALL SCRIPTS MUST PASS THIS CHECKLIST
+
+Before ANY script goes to editing, run it through this:
+
+## Hook Verification (First 30 Seconds)
+- [ ] First line validates thumbnail/title?
+- [ ] No jargon (simple language)?
+- [ ] No repetition?
+- [ ] Clear stakes established?
+- [ ] Is it clear WHY they should watch rest?
+- [ ] Credibility established (who you are/why qualified)?
+- [ ] Curiosity gap widened?
+
+## Body Verification
+- [ ] Lead with What's In It For Them?
+- [ ] Clear problem → solution flow?
+- [ ] Actionable insight provided?
+- [ ] Clear example to anchor point?
+- [ ] Build towards next step (don't just end)?
+
+## Outro + CTA Verification
+- [ ] Only ONE clear CTA?
+- [ ] Links to current video topic?
+- [ ] Curiosity gap widened for next video?
+- [ ] Specific transformation promised?
+
+**If ANY checkbox fails, the script goes back for revision.**
+
+---
+
 # VIRAL SCRIPT FORMULA (From Top Creator Analysis)
 
 ## THE HOOK FORMULA (First 30 Seconds MUST Have)
