@@ -79,34 +79,31 @@
 
 # 🎬 FILM LORE (2 videos this week)
 
-## VIDEO 1: Trending Celebrity Scandal
-- **EXACT TITLE:** (Use current trending - pick ONE)
-  - *Option A:* "What Happened to Diddy is SHOCKING: The Full Story"
-  - *Option B:* "What Happened to This CELEBRITY is SHOCKING: The Full Story"
+## VIDEO 1: Trending Celebrity Scandal (P. Diddy)
+- **EXACT TITLE:** "P. Diddy: The SHOCKING Truth They HID From You"
 - **LENGTH:** 12 minutes
-- **SCRIPT SUMMARY:** Cover the biggest trending celebrity story. Tell the full timeline - what happened, who was involved, the aftermath, and where things stand now. Use the "What Happened to X is SHOCKING" format.
+- **SCRIPT SUMMARY:** Cover the P. Diddy scandal in full. Timeline of allegations, what happened in 2024, legal aftermath, industry impact, and where things stand now. The "truth they hid" format is evergreen and works for any celebrity.
 - **HOOK (first 30 seconds):**
-  > "You think you know what happened, but the full story is so much worse than the headlines let on. This is everything that went down — straight from the beginning."
+  > "You've seen the headlines, but the full story is so much worse than what they told you. P. Diddy was once the king of hip hop — now everything has come crashing down. This is the complete story they tried to hide."
 - **THUMBNAIL CONCEPT:**
-  - Visual: Celebrity face with SHOCKED expression (mouth open, eyes wide)
-  - Text (red, bold): "SHOCKING FULL STORY"
+  - Visual: P. Diddy face with SHOCKED expression (mouth open, eyes wide)
+  - Text (red, bold): "THEY HID THIS"
   - Extra: Question mark + "EXPOSED" in red
   - Colors: Red/yellow, high emotion, stop-scroll factor
-- **NOTE:** Must use trending celebrity - choose whichever story is hottest NOW
 
 ---
 
-## VIDEO 2: Director Fired
-- **EXACT TITLE:** "This Director Was FIRED From [TRENDING MOVIE]: The REAL Reason"
+## VIDEO 2: Hollywood Secrets
+- **EXACT TITLE:** "Hollywood Secrets: What They DON'T Want You To Know"
 - **LENGTH:** 10 minutes
-- **SCRIPT SUMMARY:** A director was just fired from a major movie. Studio gave one reason, but the truth behind the scenes is different. Break down what happened, the real reason, and what happens next.
+- **SCRIPT SUMMARY:** "What They DON'T Want You To Know" format - the most evergreen format in entertainment. Cover Hollywood scandals, hidden truths, industry secrets that celebrities and studios work hard to hide. Works for any trending story.
 - **HOOK (first 30 seconds):**
-  > "Another day, another director gets fired from a major movie. The studio gave one reason, but the truth behind the scenes is completely different. Let me break down exactly what happened."
+  > "Hollywood works hard to hide the truth from you. But after digging deep, I found the secrets they don't want you to know. This video could get me in trouble — but you deserve to know the truth."
 - **THUMBNAIL CONCEPT:**
-  - Visual: Director looking upset/angry + movie poster
-  - Text (red, bold): "FIRED: THE REAL REASON"
-  - Extra: Angry expression + exclamation mark
-  - Colors: Red/white, drama, attention-grabbing
+  - Visual: Hollywood sign + shocked celebrity face
+  - Text (red, bold): "THEY DON'T WANT YOU TO KNOW"
+  - Extra: Exposed document graphic + exclamation
+  - Colors: Red/black/yellow, mysterious, scandal
 
 ---
 
