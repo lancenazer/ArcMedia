@@ -6,7 +6,7 @@
 # 📺 VISIONARY BUILDS (3 videos this week)
 
 ## VIDEO 1: Jeddah Tower 2026 Update
-- **EXACT TITLE:** "Jeddah Tower 2026 Update: The 1KM Tall Building Is FINALLY Complete!"
+- **EXACT TITLE:** "Jeddah Tower 2026 Update: The 1KM Tower Is BACK From The DEAD"
 - **LENGTH:** 14 minutes
 - **SCRIPT SUMMARY:** Update on the Jeddah Tower construction. After years of delays, construction is back on track for the world's first kilometer-tall building. Cover history, current status, engineering challenges, and comparison to Burj Khalifa.
 - **HOOK (first 30 seconds):**
