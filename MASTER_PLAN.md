@@ -766,6 +766,80 @@ Use these formulas for EVERY video:
 
 ---
 
+# VIRAL SCRIPT FORMULA (From Top Creator Analysis)
+
+## THE HOOK FORMULA (First 30 Seconds MUST Have)
+
+### Structure:
+1. **Lead with the PROBLEM or PROMISE** (not intro)
+2. **Establish CREDIBILITY** (why should they listen?)
+3. **Create CURIOSITY GAP** (make them stay)
+4. **Validate Title + Thumbnail** (first line MUST match)
+
+### Hook Templates:
+
+| Template | Example |
+|----------|---------|
+| "These are the [X] mistakes that [BAD OUTCOME] → [GOOD OUTCOME]" | "These are the 5 mistakes that will kill your video" |
+| "I'm going to show you [SPECIFIC TRANSFORMATION]" | "I'm going to show you how to get 1M views" |
+| "The reason [X] is [BAD] is actually [Y]" | "The reason your videos don't convert is actually this" |
+| "You think [COMMON BELIEF] but [REALITY]" | "You think posting more = more views, but here's the truth" |
+
+### Hook Checklist ✅
+- [ ] First line validates thumbnail/title
+- [ ] No jargon (simple language)
+- [ ] No repetition
+- [ ] Clear stakes established
+- [ ] It's clear WHY they should watch rest
+- [ ] Credibility established (who you are/why you're qualified)
+- [ ] Curiosity gap widened
+
+---
+
+## BODY SCRIPT FORMULA
+
+### Structure:
+1. **Problem** (what's wrong)
+2. **Solution** (how to fix it)
+3. **Example** (show don't tell)
+4. **Build to next step** (lead to CTA)
+
+### Rules:
+- [ ] Build towards next step (don't just end)
+- [ ] Provide actionable insight
+- [ ] Clear example to anchor the point
+- [ ] Links to relevant videos
+- [ ] Use pauses (/) and emphasis appropriately
+- [ ] Match audience awareness level
+
+---
+
+## STORYTELLING PRINCIPLES (Critical!)
+
+### The W's Rule:
+| Order | What to Do | What NOT to Do |
+|-------|------------|----------------|
+| FIRST | What & Why | Where & When |
+| SECOND | Who & How | What & Why |
+| LAST | Where & When | Who & How |
+
+**You lose 50% of viewers in first 30 seconds. Lead with what's in it for them.**
+
+---
+
+## OUTRO + CTA FORMULA
+
+### Rules:
+- [ ] Only ONE clear CTA
+- [ ] Link to current video (not random)
+- [ ] Widen curiosity gap
+- [ ] Promise specific transformation for next video
+
+### CTA Template:
+> "If you want more of [SPECIFIC TOPIC], hit subscribe and I'll see you in the next video where I'll [SPECIFIC PROMISE]."
+
+---
+
 # EXECUTION RULES
 
 1. **Post EVERY scheduled video** — No exceptions
