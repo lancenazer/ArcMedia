@@ -23,32 +23,14 @@ This thumbnail needs to scream "EPIC CONSTRUCTION." The 1KM angle is the hook - 
 
 ---
 
-## 🤖 AI PROMPT (Backup/Alternative)
+## 🤖 NANO BANANA PROMPTS (Optimized for YouTube)
 
-Use this prompt in Midjourney, DALL-E 3, or similar AI image generators:
+### Primary Prompt
+Create a YouTube thumbnail: massive Jeddah Tower construction site with dramatic orange and blue sky, construction crane, bold gold text BACK FROM THE DEAD in industrial stencil font, red accents, high contrast, cinematic wide shot, 16:9 aspect ratio, YouTube optimized
 
-```
-Photorealistic construction site at golden hour, massive Jeddah Tower construction crane against dramatic orange and blue sunset sky, workers in high-visibility gear, dramatic lighting, hyper-realistic style, bold gold text "BACK FROM THE DEAD" overlaid in industrial font, red accent colors, cinematic wide shot --ar 16:9 --v 6.0 --s 250
-```
-
-### AI Prompt Variations:
-- **Alternative 1 (More dramatic):** "Cinematic movie poster style, construction crane at night with dramatic floodlights, Jeddah Tower silhouette against blood-red sky, workers looking up in awe, bold industrial text "BACK FROM THE DEAD", gold and red color scheme, dramatic atmosphere --ar 16:9 --v 6.0"
-- **Alternative 2 (Closer focus):** "Close-up dramatic shot, construction worker's shocked face looking up at massive tower, Jeddah Tower rising behind, golden hour lighting, bold gold text "1KM TALL" in industrial font --ar 16:9 --v 6.0"
-
----
-
-## ✅ THUMBNAIL VERIFICATION CHECKLIST
-
-- [ ] Creates burning question?
-- [ ] Curiosity gap present?
-- [ ] Main element prominent?
-- [ ] Text readable (3-5 words)?
-- [ ] High contrast colors?
-- [ ] Matches title?
-- [ ] For faceless: uses objects/numbers/flags?
-
-**Status:** ✅ READY FOR DESIGNER
-
+### Alternative Options
+1. Create a YouTube thumbnail: shocked construction worker's face looking up at massive tower, Jeddah Tower rising behind, golden hour lighting, bold gold text in industrial font, 16:9
+2. Create a YouTube thumbnail: cinematic view of Jeddah Tower silhouette against blood-red desert sky, construction cranes, bold industrial text 1KM TALL, red and gold colors, 16:9
 
 ---
 
@@ -63,4 +45,3 @@ Photorealistic construction site at golden hour, massive Jeddah Tower constructi
 - [ ] For faceless: uses objects/numbers/flags?
 
 **Status:** ✅ VERIFIED
-

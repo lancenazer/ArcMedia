@@ -20,18 +20,17 @@
 
 ## Designer Notes
 This needs to look like the FUTURE. Use neon colors, make it glow. "2026" shows it's happening NOW, not fictional.
+
 ---
 
-## 🤖 AI PROMPT (Backup/Alternative)
+## 🤖 NANO BANANA PROMPTS
 
-```
-Futuristic city skyline at night with neon lights reflecting on water, massive glass towers rising from desert, hyper-realistic cyberpunk style, bold green text "FUTURE CITIES" in industrial font, blue and green color scheme, cinematic wide shot, glowing city lights --ar 16:9 --v 6.0 --s 250
-```
+### Primary Prompt
+Create a YouTube thumbnail: futuristic city skyline at night with neon lights reflecting on water, massive glass towers rising from desert, hyper-realistic cyberpunk style, bold green text FUTURE CITIES in industrial font, blue and green color scheme, cinematic wide shot, glowing city lights, 16:9 aspect ratio, YouTube optimized
 
-### Variations:
-- **Alternative 1:** "Bird's eye view, glowing futuristic city grid from space, neon lights visible, bold green "#5 FUTURE CITIES" text, dramatic --ar 16:9 --v 6.0"
-- **Alternative 2:** "Side view, futuristic city rising from desert at sunset, glass towers with glowing windows, bold green "2026" text overlay --ar 16:9 --v 6.0"
-
+### Alternative Options
+1. Create a YouTube thumbnail: bird's eye view, glowing futuristic city grid from space, neon lights visible, bold green number 5 FUTURE CITIES text, dramatic, 16:9
+2. Create a YouTube thumbnail: side view, futuristic city rising from desert at sunset, glass towers with glowing windows, bold green 2026 text overlay, 16:9
 
 ---
 
@@ -46,4 +45,3 @@ Futuristic city skyline at night with neon lights reflecting on water, massive g
 - [ ] For faceless: uses objects/numbers/flags?
 
 **Status:** ✅ VERIFIED
-

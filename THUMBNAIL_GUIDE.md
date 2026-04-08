@@ -127,17 +127,33 @@ Your thumbnail's #1 job: **Create a burning question** in the viewer's mind — 
 
 ---
 
-## AI PROMPT TEMPLATES (For Midjourney/DALL-E)
+## AI PROMPT FORMATS
 
-### Template Structure:
+### For Nano Banana (Recommended for YouTube Thumbnails)
+
+Nano Banana uses Google Gemini and similar models. Use this format:
+
+**Template:**
 ```
-[Subject] + [Action/Emotion] + [Setting] + [Style] + [Text Overlay] + [Colors] + [Technical specs]
+Create a YouTube thumbnail for [video topic]: [main visual description], [emotion/expression], [colors], [text to include], high contrast, bold typography, 16:9 aspect ratio, YouTube optimized
 ```
 
-### Example (Our Style):
-```
-Cinematic [aircraft carrier] at sunset, [dramatic ocean waves], hyper-realistic photography, bold [gold text "$13 BILLION"] in industrial stencil font, [blue and gold] color scheme, cinematic wide shot --ar 16:9 --v 6.0 --s 250
-```
+**Quick Examples:**
+
+| Thumbnail Type | Nano Banana Prompt |
+|----------------|-------------------|
+| Warship | "Create a YouTube thumbnail: massive US Navy aircraft carrier at sea at sunset, dramatic ocean waves, bold gold text '$13 BILLION' in industrial font, blue and gold color scheme, high contrast, cinematic style, 16:9 aspect ratio" |
+| Celebrity | "Create a YouTube thumbnail: celebrity face with shocked expression, red spotlight lighting, bold red text 'THEY HID THIS' in industrial stencil font, black background, red and gold colors, high contrast, YouTube optimized, 16:9" |
+| Infrastructure | "Create a YouTube thumbnail: massive construction site of Jeddah Tower with dramatic sky, construction crane, bold gold text 'BACK FROM THE DEAD', phoenix-like colors, high contrast, cinematic wide shot, 16:9 aspect ratio" |
+| Comparison | "Create a YouTube thumbnail: two warships facing each other, dramatic ocean, bold 'VS' text in red, American and Chinese flags, high contrast, 16:9 aspect ratio" |
+
+### Nano Banana Tips:
+- Keep prompts under 200 words
+- Specify colors, text, and emotions clearly
+- Include "high contrast" and "YouTube optimized"
+- Use "16:9 aspect ratio" for best results
+- Describe the main visual (object/face) first
+- Reference style option: pick template, customize text/fonts/colors
 
 ---
 

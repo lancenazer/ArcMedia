@@ -21,18 +21,17 @@
 
 ## Designer Notes
 This needs to STOP the scroll. Use the most shocked reaction face you can find. Red colors = danger/scandal. "THEY HID THIS" is the hook - it implies conspiracy/revelation.
+
 ---
 
-## 🤖 AI PROMPT (Backup/Alternative)
+## 🤖 NANO BANANA PROMPTS
 
-```
-Studio portrait photography, celebrity face with shocked/surprised expression, mouth open, eyes wide, dramatic red spotlight lighting, hyper-realistic style, bold red text "THEY HID THIS" in industrial stencil font, black background, red and gold color scheme --ar 16:9 --v 6.0 --s 250
-```
+### Primary Prompt
+Create a YouTube thumbnail: studio portrait photography, celebrity face with shocked expression mouth open eyes wide, dramatic red spotlight lighting, hyper-realistic style, bold red text THEY HID THIS in industrial stencil font, black background, red and gold color scheme, high contrast, 16:9 aspect ratio, YouTube optimized
 
-### Variations:
-- **Alternative 1:** "Close-up face with shocked expression, hand over mouth in disbelief, dramatic red and black studio lighting, bold red "SHOCKING" text --ar 16:9 --v 6.0"
-- **Alternative 2:** "Celebrity in dramatic lighting, looking directly at camera with intense expression, question mark graphic overlay, bold red "EXPOSED" text --ar 16:9 --v 6.0"
-
+### Alternative Options
+1. Create a YouTube thumbnail: close-up face with shocked expression, hand over mouth in disbelief, dramatic red and black studio lighting, bold red SHOCKING text, 16:9
+2. Create a YouTube thumbnail: celebrity looking directly at camera with intense expression, question mark graphic overlay, bold red EXPOSED text, 16:9
 
 ---
 
@@ -47,4 +46,3 @@ Studio portrait photography, celebrity face with shocked/surprised expression, m
 - [ ] For faceless: uses objects/numbers/flags?
 
 **Status:** ✅ VERIFIED
-

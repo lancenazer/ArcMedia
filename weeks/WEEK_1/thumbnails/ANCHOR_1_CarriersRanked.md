@@ -20,18 +20,17 @@
 
 ## Designer Notes
 The question "STRONGEST NAVY?" creates curiosity. The ranking format is proven to work. Use US flag for recognition.
+
 ---
 
-## 🤖 AI PROMPT (Backup/Alternative)
+## 🤖 NANO BANANA PROMPTS
 
-```
-Cinematic top-down view of US aircraft carriers lined up at sea, aircraft on deck, dramatic ocean sunset lighting, blue ocean with white foam trails, hyper-realistic military photography, bold red text "STRONGEST NAVY?" in industrial stencil font, US flag in corner, blue and gold colors --ar 16:9 --v 6.0 --s 250
-```
+### Primary Prompt
+Create a YouTube thumbnail: cinematic top-down view of US aircraft carriers lined up at sea, aircraft on deck, dramatic ocean sunset lighting, blue ocean with white foam trails, hyper-realistic military photography, bold red text STRONGEST NAVY in industrial stencil font, US flag in corner, blue and gold colors, 16:9 aspect ratio, YouTube optimized
 
-### Variations:
-- **Alternative 1:** "Side view of massive aircraft carrier moving through ocean, F-18 jets on deck, dramatic storm clouds forming, bold red "#1" text overlay --ar 16:9 --v 6.0"
-- **Alternative 2:** "Aerial view, multiple aircraft carriers in formation at sunrise, US Navy helicopters on deck, bold red "RANKED" text --ar 16:9 --v 6.0"
-
+### Alternative Options
+1. Create a YouTube thumbnail: side view of massive aircraft carrier moving through ocean, jets taking off, dramatic storm clouds forming, bold red number 1 text overlay, 16:9
+2. Create a YouTube thumbnail: aerial view, multiple aircraft carriers in formation at sunrise, US Navy helicopters on deck, bold red RANKED text, 16:9
 
 ---
 
@@ -46,4 +45,3 @@ Cinematic top-down view of US aircraft carriers lined up at sea, aircraft on dec
 - [ ] For faceless: uses objects/numbers/flags?
 
 **Status:** ✅ VERIFIED
-

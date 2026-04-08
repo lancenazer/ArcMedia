@@ -21,18 +21,17 @@
 
 ## Designer Notes
 "The truth they don't want you to know" is proven evergreen format. Use contrast (dark/red) to make it serious. The Hollywood sign establishes location. Shocked face adds human reaction.
+
 ---
 
-## 🤖 AI PROMPT (Backup/Alternative)
+## 🤖 NANO BANANA PROMPTS
 
-```
-Hollywood sign at night with dramatic spotlight, celebrity face looking shocked with documents in hand, investigative journalism style, hyper-realistic, bold red text "THEY DON'T WANT YOU TO KNOW" in industrial stencil, yellow and red color scheme --ar 16:9 --v 6.0 --s 250
-```
+### Primary Prompt
+Create a YouTube thumbnail: Hollywood sign at night with dramatic spotlight, celebrity face looking shocked, investigative journalism style, hyper-realistic, bold red text THEY DONT WANT YOU TO KNOW in industrial stencil, yellow and red color scheme, high contrast, 16:9 aspect ratio, YouTube optimized
 
-### Variations:
-- **Alternative 1:** "Close-up celebrity face with shocked expression, holding redacted documents, dramatic shadow lighting, bold red "SECRETS EXPOSED" text --ar 16:9 --v 6.0"
-- **Alternative 2:** "Investigation board with red string, documents pinned, celebrity looking shocked in foreground, dramatic noir lighting --ar 16:9 --v 6.0"
-
+### Alternative Options
+1. Create a YouTube thumbnail: close-up celebrity face with shocked expression, holding redacted documents, dramatic shadow lighting, bold red SECRETS EXPOSED text, 16:9
+2. Create a YouTube thumbnail: investigation board with red string, documents pinned, celebrity looking shocked in foreground, dramatic noir lighting, 16:9
 
 ---
 
@@ -47,4 +46,3 @@ Hollywood sign at night with dramatic spotlight, celebrity face looking shocked 
 - [ ] For faceless: uses objects/numbers/flags?
 
 **Status:** ✅ VERIFIED
-
