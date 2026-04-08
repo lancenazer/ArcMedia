@@ -2,7 +2,10 @@
 ## ArcMedia Group - Based on YouTube Best Practices
 
 **Last Updated:** 2026-04-08
-**Source:** Ultimate Thumbnail Guide + Channel Research
+**Sources:** 
+- Ultimate Thumbnail Guide (Thomas Frank)
+- Faceless YouTube Growth Strategies
+- Viral Idea Generation (Competitor Analysis, Content Gaps, Top 1%)
 
 ---
 
@@ -153,3 +156,57 @@ Cinematic [aircraft carrier] at sunset, [dramatic ocean waves], hyper-realistic 
 ---
 
 *This guide should be reviewed and updated quarterly as YouTube thumbnail trends evolve.*
+---
+
+# VIRAL IDEA GENERATION GUIDE
+## Based on YouTube Growth Strategies
+
+## 3 Methods for Finding Viral Ideas
+
+### 1. Competitor Outlier Analysis
+- **Find videos with 3-50x more views** than channel average
+- **Focus on last 6 months** — trends change fast
+- **Our implementation:** ✅ Done in COMPREHENSIVE_CHANNEL_ANALYSIS
+
+### 2. Content Gap Research
+- Read comments on popular videos in niche
+- Use **AnswerThePublic** to find unasked questions
+- Check what audience wants but isn't covered
+
+### 3. "Top 1%" Bold Concepts
+- Brainstorm 20-30 ambitious ideas at a time
+- Borrow proven viral structures:
+  - "$1 vs $1,000,000"
+  - "I tested one-star [product]"
+  - "24 hours in [extreme location]"
+  - MrBeast-style stunts
+
+## Practical Advice for Faceless Channels
+
+### Scalable Formats:
+- Don't just think single video ideas → think repeatable formats
+- Take compelling niche idea → adapt to faceless through:
+  - Scripted narration
+  - AI tools
+  - Screen recordings
+  - Research-based explanations
+
+### Volume Approach:
+- Generate 20-30 ideas at a time
+- Most won't hit — but ONE strong idea raises channel baseline significantly
+- Test consistently, spot what works, package highly clickable
+
+---
+
+## Our Process Going Forward
+
+1. ✅ Weekly competitor outlier analysis (last 6 months)
+2. ✅ Content research with sources
+3. ✅ Bold hooks using proven formats
+4. ⚠️ ADD: Check video comments for gaps
+5. ⚠️ ADD: Use AnswerThePublic for keyword research
+6. ⚠️ ADD: Generate 20-30 ideas per week, test top 5
+
+---
+
+*Guide updated with viral idea generation strategies.*
