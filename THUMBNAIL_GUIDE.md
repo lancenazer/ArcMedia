@@ -5,7 +5,6 @@
 **Sources:** 
 - Ultimate Thumbnail Guide (Thomas Frank)
 - Faceless YouTube Growth Strategies
-- Viral Idea Generation (Competitor Analysis, Content Gaps, Top 1%)
 
 ---
 
