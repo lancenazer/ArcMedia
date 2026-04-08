@@ -33,3 +33,18 @@ Hollywood sign at night with dramatic spotlight, celebrity face looking shocked 
 - **Alternative 1:** "Close-up celebrity face with shocked expression, holding redacted documents, dramatic shadow lighting, bold red "SECRETS EXPOSED" text --ar 16:9 --v 6.0"
 - **Alternative 2:** "Investigation board with red string, documents pinned, celebrity looking shocked in foreground, dramatic noir lighting --ar 16:9 --v 6.0"
 
+
+---
+
+## ✅ THUMBNAIL VERIFICATION CHECKLIST
+
+- [ ] Creates burning question?
+- [ ] Curiosity gap present?
+- [ ] Main element prominent?
+- [ ] Text readable (3-5 words)?
+- [ ] High contrast colors?
+- [ ] Matches title?
+- [ ] For faceless: uses objects/numbers/flags?
+
+**Status:** ✅ VERIFIED
+
