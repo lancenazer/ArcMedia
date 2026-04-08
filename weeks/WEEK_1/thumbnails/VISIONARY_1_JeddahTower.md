@@ -20,3 +20,17 @@
 
 ## Designer Notes
 This thumbnail needs to scream "EPIC CONSTRUCTION." The 1KM angle is the hook - make it big and gold. Use the shocked worker face to add human element.
+
+---
+
+## 🤖 AI PROMPT (Backup/Alternative)
+
+Use this prompt in Midjourney, DALL-E 3, or similar AI image generators:
+
+```
+Photorealistic construction site at golden hour, massive Jeddah Tower construction crane against dramatic orange and blue sunset sky, workers in high-visibility gear, dramatic lighting, hyper-realistic style, bold gold text "BACK FROM THE DEAD" overlaid in industrial font, red accent colors, cinematic wide shot --ar 16:9 --v 6.0 --s 250
+```
+
+### AI Prompt Variations:
+- **Alternative 1 (More dramatic):** "Cinematic movie poster style, construction crane at night with dramatic floodlights, Jeddah Tower silhouette against blood-red sky, workers looking up in awe, bold industrial text "BACK FROM THE DEAD", gold and red color scheme, dramatic atmosphere --ar 16:9 --v 6.0"
+- **Alternative 2 (Closer focus):** "Close-up dramatic shot, construction worker's shocked face looking up at massive tower, Jeddah Tower rising behind, golden hour lighting, bold gold text "1KM TALL" in industrial font --ar 16:9 --v 6.0"

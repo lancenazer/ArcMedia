@@ -20,3 +20,15 @@
 
 ## Designer Notes
 $13 BILLION is the hook - make it gold and expensive-looking. "GAME CHANGER" adds drama. Add explosion or dramatic water effect for impact.
+---
+
+## 🤖 AI PROMPT (Backup/Alternative)
+
+```
+Cinematic side view of massive US Navy aircraft carrier at sunset, ocean waves crashing, dramatic orange and blue sky, hyper-realistic military photography, bold gold text "$13 BILLION" in industrial stencil font, explosion effect in background, white and gold colors --ar 16:9 --v 6.0 --s 250
+```
+
+### Variations:
+- **Alternative 1:** "Wide shot of USS Gerald R Ford carrier moving through ocean, jets taking off, dramatic lighting, bold gold "$13B" text overlay --ar 16:9 --v 6.0"
+- **Alternative 2:** "Front angle view, massive aircraft carrier bow, ocean spray, dramatic clouds, bold "GAME CHANGER" red text --ar 16:9 --v 6.0"
+
