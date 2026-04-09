@@ -1,29 +1,32 @@
 # THUMBNAIL BRIEF - Anchor Watch Video 2
 
+## ⚓ Channel: Anchor Watch (Naval / Military / Defense)
+**Niche-Specific Rules Apply**
+
 ## Video Info
 - **Title:** US Navy's NEW $13 BILLION Warship is a GAME CHANGER
 - **Length:** 13 minutes
-- **Channel:** Anchor Watch
+
+## Niche-Specific Thumbnail Strategy
+| Element | Implementation | Status |
+|---------|---------------|--------|
+| Main Visual | Ships/Weapons | ✅ |
+| Text Colors | Navy/Gold/Red | ✅ |
+| Key Hooks | Cost "$13B", "VS" | ✅ |
 
 ## Thumbnail Specs
-- **Main Visual:** US Navy warship at sea with dramatic waves/sunset
-- **Text (gold, bold):** "$13 BILLION"
-- **Extra Element:** "GAME CHANGER" in red + explosion/military action effect
-- **Color Palette:** Gold/red/white, expensive, powerful, premium
-- **Style:** Military power, epic scale, expensive feel
+- **Main Visual:** US Navy warship at sea with dramatic waves
+- **Text (gold, bold):** "$13 BILLION" + "GAME CHANGER"
+- **Colors:** Gold/red/white — expensive, powerful
 
-## Requirements
-- Expensive, powerful feel
-- Text must be readable at thumbnail size
-- Emotion: shock, power, dominance
-- Avoid: boring ship photos, peaceful imagery
-
-## Designer Notes
-$13 BILLION is the hook - make it gold and expensive-looking. "GAME CHANGER" adds drama. Add explosion or dramatic water effect for impact.
+## Niche-Specific Notes
+- ✅ Use ship as main visual
+- ✅ Include cost number ($13B)
+- ✅ "GAME CHANGER" = dominance
 
 ---
 
-## 🤖 NANO BANANA PROMPTS
+## 🤖 NANO BANANA PROMPTS (Optimized for Anchor)
 
 ### Primary Prompt
 Create a YouTube thumbnail: cinematic side view of massive US Navy aircraft carrier at sunset, ocean waves crashing, dramatic orange and blue sky, hyper-realistic military photography, bold gold text $13 BILLION in industrial stencil font, explosion effect in background, white and gold colors, 16:9 aspect ratio, YouTube optimized
@@ -36,12 +39,12 @@ Create a YouTube thumbnail: cinematic side view of massive US Navy aircraft carr
 
 ## ✅ THUMBNAIL VERIFICATION CHECKLIST
 
-- [ ] Creates burning question?
-- [ ] Curiosity gap present?
-- [ ] Main element prominent?
-- [ ] Text readable (3-5 words)?
-- [ ] High contrast colors?
-- [ ] Matches title?
-- [ ] For faceless: uses objects/numbers/flags?
+- [ ] Creates burning question? ✅
+- [ ] Curiosity gap present? ✅
+- [ ] Main element prominent? ✅
+- [ ] Text readable (3-5 words)? ✅
+- [ ] High contrast colors? ✅
+- [ ] Matches title? ✅
+- [ ] For faceless: uses objects/numbers/flags? ✅
 
-**Status:** ✅ VERIFIED
+**Status:** ✅ VERIFIED - NICHE STRATEGY APPLIED

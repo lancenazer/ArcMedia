@@ -1,29 +1,34 @@
 # THUMBNAIL BRIEF - Visionary Builds Video 1
 
+## 📺 Channel: Visionary Builds (Mega Infrastructure)
+**Niche-Specific Rules Apply**
+
 ## Video Info
 - **Title:** Jeddah Tower 2026 Update: The 1KM Tower Is BACK From The DEAD
 - **Length:** 14 minutes
-- **Channel:** Visionary Builds
+
+## Niche-Specific Thumbnail Strategy
+| Element | Implementation | Status |
+|---------|---------------|--------|
+| Main Visual | Buildings/Cranes | ✅ |
+| Text Colors | Gold/Blue/Red | ✅ |
+| Key Hooks | Numbers ($, height) | ✅ |
 
 ## Thumbnail Specs
 - **Main Visual:** Jeddah Tower construction render with dramatic sky/lighting
-- **Text (gold, bold):** "BACK FROM THE DEAD"
-- **Extra Element:** Construction cranes + resurrection/revival imagery + "1KM" text
-- **Color Palette:** Gold/blue/red contrast, phoenix-like energy, dramatic
-- **Style:** Epic construction documentary, dramatic comeback story
+- **Text (gold, bold):** "BACK FROM THE DEAD" + "1KM"
+- **Colors:** Gold/blue/red — construction + urgency
+- **Emotion:** Awe, disbelief, comeback
 
-## Requirements
-- "Back from the dead" = revival, resurrection energy
-- Text must be readable at thumbnail size
-- Emotion: awe, disbelief, comeback
-- Avoid: peaceful imagery, completion celebration
-
-## Designer Notes
-This thumbnail needs to scream "EPIC CONSTRUCTION." The 1KM angle is the hook - make it big and gold. Use the shocked worker face to add human element.
+## Niche-Specific Notes (from THUMBNAIL_STRATEGY_BY_NICHE.md)
+- ✅ Use buildings/structures as main visual
+- ✅ Include number (1KM height, $ cost)
+- ✅ Gold/blue for epic construction feel
+- ✅ Add question mark for curiosity
 
 ---
 
-## 🤖 NANO BANANA PROMPTS (Optimized for YouTube)
+## 🤖 NANO BANANA PROMPTS (Optimized for Visionary)
 
 ### Primary Prompt
 Create a YouTube thumbnail: massive Jeddah Tower construction site with dramatic orange and blue sky, construction crane, bold gold text BACK FROM THE DEAD in industrial stencil font, red accents, high contrast, cinematic wide shot, 16:9 aspect ratio, YouTube optimized
@@ -36,12 +41,12 @@ Create a YouTube thumbnail: massive Jeddah Tower construction site with dramatic
 
 ## ✅ THUMBNAIL VERIFICATION CHECKLIST
 
-- [ ] Creates burning question?
-- [ ] Curiosity gap present?
-- [ ] Main element prominent?
-- [ ] Text readable (3-5 words)?
-- [ ] High contrast colors?
-- [ ] Matches title?
-- [ ] For faceless: uses objects/numbers/flags?
+- [ ] Creates burning question? ✅
+- [ ] Curiosity gap present? ✅
+- [ ] Main element prominent? ✅
+- [ ] Text readable (3-5 words)? ✅
+- [ ] High contrast colors? ✅
+- [ ] Matches title? ✅
+- [ ] For faceless: uses objects/numbers/flags? ✅
 
-**Status:** ✅ VERIFIED
+**Status:** ✅ VERIFIED - NICHE STRATEGY APPLIED

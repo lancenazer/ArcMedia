@@ -1,30 +1,34 @@
 # THUMBNAIL BRIEF - Film Lore Video 1
 
+## 🎬 Channel: Film Lore (Celebrity / Entertainment / Gossip)
+**Niche-Specific Rules Apply**
+
 ## Video Info
 - **Title:** P. Diddy: The SHOCKING Truth They HID From You
 - **Length:** 12 minutes
-- **Channel:** Film Lore
+
+## Niche-Specific Thumbnail Strategy
+| Element | Implementation | Status |
+|---------|---------------|--------|
+| Main Visual | Celebrity Faces | ✅ |
+| Text Colors | Red/Yellow/Black | ✅ |
+| Key Hooks | "HID", "SHOCKING", Exposed | ✅ |
 
 ## Thumbnail Specs
-- **Main Visual:** P. Diddy face with SHOCKED expression (mouth open, eyes wide)
-- **Text (red, bold):** "THEY HID THIS"
-- **Extra Element:** Question mark + "EXPOSED" in red
-- **Color Palette:** Red/yellow, high emotion, scandal, stop-scroll
-- **Style:** Breaking news, scandal, investigation
+- **Main Visual:** P. Diddy face with SHOCKED expression
+- **Text (red, bold):** "THEY HID THIS" + "EXPOSED"
+- **Colors:** Red/yellow — scandal, urgency
+- **Emotion:** MAX shock (mouth open, eyes wide)
 
-## Requirements
-- HIGHEST emotion possible
-- Text must be readable at thumbnail size
-- Emotion: shock, scandal, revelation
-- MUST stop the scroll - use biggest reaction face possible
-- Avoid: neutral expressions, calm imagery, smiling faces
-
-## Designer Notes
-This needs to STOP the scroll. Use the most shocked reaction face you can find. Red colors = danger/scandal. "THEY HID THIS" is the hook - it implies conspiracy/revelation.
+## Niche-Specific Notes
+- ✅ Use celebrity face as main visual
+- ✅ MAX emotion required (shocked, angry)
+- ✅ Red = scandal/danger
+- ✅ "THEY HID THIS" = evergreen hook
 
 ---
 
-## 🤖 NANO BANANA PROMPTS
+## 🤖 NANO BANANA PROMPTS (Optimized for Film Lore)
 
 ### Primary Prompt
 Create a YouTube thumbnail: studio portrait photography, celebrity face with shocked expression mouth open eyes wide, dramatic red spotlight lighting, hyper-realistic style, bold red text THEY HID THIS in industrial stencil font, black background, red and gold color scheme, high contrast, 16:9 aspect ratio, YouTube optimized
@@ -37,12 +41,12 @@ Create a YouTube thumbnail: studio portrait photography, celebrity face with sho
 
 ## ✅ THUMBNAIL VERIFICATION CHECKLIST
 
-- [ ] Creates burning question?
-- [ ] Curiosity gap present?
-- [ ] Main element prominent?
-- [ ] Text readable (3-5 words)?
-- [ ] High contrast colors?
-- [ ] Matches title?
-- [ ] For faceless: uses objects/numbers/flags?
+- [ ] Creates burning question? ✅
+- [ ] Curiosity gap present? ✅
+- [ ] Main element prominent? ✅
+- [ ] Text readable (3-5 words)? ✅
+- [ ] High contrast colors? ✅
+- [ ] Matches title? ✅
+- [ ] For faceless: uses objects/numbers/flags? N/A (faces okay for public figures)
 
-**Status:** ✅ VERIFIED
+**Status:** ✅ VERIFIED - NICHE STRATEGY APPLIED
